@@ -22,7 +22,7 @@ Possible features (variable) for consideration:
 
 ## The project consists of three parts.
 
-The first part of this project uses pandas in jupyter notebook to import libraries, read in the dataset, clean the data, generate charts and csv files, then exports the files into an output folder.  Seaborn is utilized to create bar charts for turnover based on salary, turnover based on department, the number of projects held versus departures, company tenure versus departures, and company salaries by department.  After generating comparison tables, dummy variables were created along with a correlation matrix to assist in identifying the proper model for machine learning.
+The first part of this project uses spark and pandas via jupyter notebook to import libraries, read in the dataset, clean the data, generate charts and csv files, then exports the files into an output folder.  Seaborn is utilized to create bar charts for turnover based on salary, turnover based on department, the number of projects held versus departures, company tenure versus departures, and company salaries by department.  After generating comparison tables, dummy variables were created along with a correlation matrix to assist in identifying the proper model for machine learning.
 
 The second part uses tableau visual analytics platform to analyze different facets of the dataset and discover/reveal any further trends for employee retention and departures.
 

@@ -44,6 +44,10 @@ After cleaning the data 3,008 duplicate items were discovered; however, the team
 
 ## Turnover Findings for Department and Salary
 
+
+![employee_quit_stayed_pie](https://github.com/todd-petruska/group-project-4/assets/128247739/316f136c-16d1-4f0c-a6a8-d758cb944d4a)
+
+
 * Low salary: 5,144 stayed, 2,172 departed
 * Medium salary: 5,129 stayed, 1,317 departed 
 * High salary: 1,155 stayed, 82 departed 

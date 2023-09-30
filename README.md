@@ -60,6 +60,10 @@ Sales is the largest department with 3,126 employees with 1,014 departing the co
 
 ![Turnover_Based_on_Department_bar](https://github.com/todd-petruska/group-project-4/assets/128247739/b660cd2f-ad97-44da-9140-37b0722023ed)
 
+
+![Company_Salaries_by_Department'](https://github.com/todd-petruska/group-project-4/assets/128247739/63ec6f29-f49e-4b7a-9836-f230ddf0401e)
+
+
 ## Findings
 
 The bar chart revealed the Sales department with the highest count of departures (1,014); however, the overall highest percentage occurred in the HR department with 29.09% departures (215), followed by Accounting with 26.60% departure rate.  The Management department is best overall in retention with 14.44% departures (91). 

@@ -44,15 +44,16 @@ After cleaning the data 3,008 duplicate items were discovered; however, the team
 
 ## Turnover Findings for Department and Salary
 
-* Low salary: 5,144 stayed, 2,172 departed
-* Medium salary: 5,129 stayed, 1,317 departed 
-* High salary: 1,155 stayed, 82 departed
-
+Preliminary analysis reveals of the 14,999 records 76.2% of individuals remain with the company and 23.8% of the individuals departed the company. There are 5,144 low incomed salaries with 2,172 departing the company.  Of the 5,129 Medium salaried employees, 1,317 departed the company.  High salaried employees retained 1,155 employees with 82 departing the company.
 
 
 ![employee_quit_stayed_pie](https://github.com/todd-petruska/group-project-4/assets/128247739/316f136c-16d1-4f0c-a6a8-d758cb944d4a)
 
-Preliminary analysis reveals of the 14,999 records 76.2% of individuals remain with the company and 23.8% of the individuals departed the company. There are 5,144 low incomed salaries with 2,172 departing the company.  Of the 5,129 Medium salaried employees, 1,317 departed the company.  High salaried employees retained 1,155 employees with 82 departing the company.   
+
+* Low salary: 5,144 stayed, 2,172 departed
+* Medium salary: 5,129 stayed, 1,317 departed 
+* High salary: 1,155 stayed, 82 departed
+
 Sales is the largest department with 3,126 employees with 1,014 departing the company and management is the smallest with 539 employees with 91 departing the company.
 
 ## Findings

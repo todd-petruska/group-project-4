@@ -96,6 +96,8 @@ Number of Projects Departures:
 * Four = 9.36%
 * Three = 1.78%
 
+![Projects_Held_Versus_Departures](https://github.com/todd-petruska/group-project-4/assets/128247739/ce35aaf1-9afd-437f-a889-8827cb560c62)
+
 The highest number of departures from the company occurs at Five years with a 56.55% departure rate (833), whereas employees with over Seven years with the company are unlikely to depart.
 
 * Number of Years at Company Departures:

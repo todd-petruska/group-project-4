@@ -108,5 +108,7 @@ The highest number of departures from the company occurs at Five years with a 56
 * Eight = 0.00%
 * Ten = 0.00%
 
+![Company_Tenure_Versus_Departures'](https://github.com/todd-petruska/group-project-4/assets/128247739/aa29cd24-1b46-4dfd-84c4-5ac28b5f02d2)
+
 
 

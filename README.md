@@ -52,6 +52,8 @@ Preliminary analysis reveals of the 14,999 records 76.2% of individuals remain w
 * Medium salary: 5,129 stayed, 1,317 departed 
 * High salary: 1,155 stayed, 82 departed
 
+![Turnover_Based_on_Salary](https://github.com/todd-petruska/group-project-4/assets/128247739/fe336e1e-b059-427f-8356-7f33020cb18b)
+
 Sales is the largest department with 3,126 employees with 1,014 departing the company and management is the smallest with 539 employees with 91 departing the company.
 
 ## Findings

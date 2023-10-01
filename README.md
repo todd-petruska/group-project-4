@@ -28,7 +28,18 @@ The second part uses tableau visual analytics platform to analyze different face
 
 The third part of the project uses jupyter notebook for machine learning to predict the factors for employee retention and departures. It includes decision tree, logistic regression, neural network, and random forest.
 
-Please, use the jupyter notebook file to read in the csv file, which is located in the Resources folder.
+Exploratory Analysis:
+Please, use the jupyter notebook named project_4_employee_retention_1OCT23 to read in the csv file, which is located in the Resources folder. This notebook is used to clean the data, exploratory analysis, and generates numerous bar/pie charts and tables.
+
+Interactive Visualization of Insights:
+Please see hyperlink for Tableau: https://public.tableau.com/views/EmployeeTurnoveratSalifortMotors/EmployeeTurnoveratSalifortMotors?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+
+Predictive Analytics Insights:
+Please use the following notebooks for machine learning, which reads in the employees_numeric csv file from the Resources folder. 
+* employee_attrition_decision_tree_final
+* employee_attrition_logistic_regression_final
+* employee_attrition_neural_network_final
+* employee_attrition_random_forest_final
 
 The Resource folder contains the following:
 * employee_data.csv, which is the original dataset

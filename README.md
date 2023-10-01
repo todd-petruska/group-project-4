@@ -26,17 +26,19 @@ The first part of this project uses spark and pandas via jupyter notebook to imp
 
 The second part uses tableau visual analytics platform to analyze different facets of the dataset and discover/reveal any further trends for employee retention and departures.
 
-The third part of the project uses Google Colab for machine learning to predict the factors for employee retention and departures.
+The third part of the project uses jupyter notebook for machine learning to predict the factors for employee retention and departures. It includes decision tree, logistic regression, neural network, and random forest.
 
 Please, use the jupyter notebook file to read in the csv file, which is located in the Resources folder.
 
 The Resource folder contains the following:
-* employee_data.csv
+* employee_data.csv (original dataset)
+* employee_data_5.csv (used in tableau, since headers are renamed)
+* employees_numeric.csv (for machine learning)
 
 The output_data folder contains the following:
-* Fifteen files in csv format
-** CSV file labeled employee_data_5 contains clean headers and includes an employee_id
-* Seven bar/pie charts in png format
+* Tables in csv format
+* CSV file labeled employee_data_5 contains clean headers and includes an employee_id
+* Bar/pie charts in png format
 
 ## Initial Findings
 

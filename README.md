@@ -112,5 +112,16 @@ The highest number of departures from the company occurs at Five years with a 56
 
 ![Company_Tenure_Versus_Departures'](https://github.com/todd-petruska/group-project-4/assets/128247739/aa29cd24-1b46-4dfd-84c4-5ac28b5f02d2)
 
+Resources Used
+ 
+* Tableau Documentation / Help Pages
+* Tableau Tim on YouTube
+* Assistance from instructor
+* Assistance from tutor
+* StackOverflow
+* Datagy Pandas-Crosstab
+* Towards Data Science Seaborn Color Palettes
+* GWU course material
+* Medium Pandas Complete Guide (A-Z)
 
 

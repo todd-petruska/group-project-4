@@ -31,9 +31,9 @@ The third part of the project uses jupyter notebook for machine learning to pred
 Please, use the jupyter notebook file to read in the csv file, which is located in the Resources folder.
 
 The Resource folder contains the following:
-* employee_data.csv (original dataset)
-* employee_data_5.csv (used in tableau, since headers are renamed)
-* employees_numeric.csv (for machine learning)
+* employee_data.csv, which is the original dataset
+* employee_data_5.csv, which is used for tableau
+* employees_numeric.csv, which is used for machine learning
 
 The output_data folder contains the following:
 * Tables in csv format

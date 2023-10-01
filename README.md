@@ -32,7 +32,8 @@ Exploratory Analysis:
 Please, use the jupyter notebook named project_4_employee_retention_1OCT23 to read in the csv file, which is located in the Resources folder. This notebook is used to clean the data, exploratory analysis, and generates numerous bar/pie charts and tables.
 
 Interactive Visualization of Insights:
-Please see hyperlink for Tableau: https://public.tableau.com/views/EmployeeTurnoveratSalifortMotors/EmployeeTurnoveratSalifortMotors?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+Please see hyperlink for Tableau: [https://public.tableau.com/views/EmployeeTurnoveratSalifortMotors/EmployeeTurnoveratSalifortMotors?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/EmployeeTurnoveratSalifortMotors/EmployeeTurnoveratSalifortMotors?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+)
 
 Predictive Analytics Insights:
 Please use the following notebooks for machine learning, which reads in the employees_numeric csv file from the Resources folder. 

@@ -26,7 +26,7 @@ The first part of this project uses spark and pandas via jupyter notebook to imp
 
 The second part uses tableau visual analytics platform to analyze different facets of the dataset and discover/reveal any further trends for employee retention and departures.
 
-The third part of the project uses jupyter notebook for machine learning to predict the factors for employee retention and departures. It includes decision tree, logistic regression, neural network, and random forest.
+The third part of the project uses jupyter notebook for machine learning to predict the factors for employee retention and departures. It includes decision tree, logistic regression, neural network, and random forest.  Of the models, Random Forest performed the best and identified satisfaction level and the number of projects an employees is assigned as the main factors for departure.
 
 Exploratory Analysis:
 Please, use the jupyter notebook named project_4_employee_retention_1OCT23 to read in the csv file, which is located in the Resources folder. This notebook is used to clean the data, exploratory analysis, and generates numerous bar/pie charts and tables.
